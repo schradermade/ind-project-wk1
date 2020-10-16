@@ -1,4 +1,39 @@
-.jumbotron {
-  background-image: url('/Users/nathanschrader/Desktop/ind-project-wk1/images/bg-png.png');
-  background-size: cover;
+
+
+div#wrapperHeader {
+  width:100%;
+  height:auto;
+  background:url(/Users/nathanschrader/Desktop/ind-project-wk1/images/bg-png.png) repeat-x 0 0;
+  background-size: 100%;
+  text-align:center;
+}
+
+div#wrapperHeader div#header {
+  width:500px;
+  height:200px;
+  margin:0 auto;
+}
+
+div#wrapperHeader div#header img {
+  width:799px;
+  height:421px;
+  margin:0 auto;
+}
+
+* {
+  box-sizing: border-box;
+  box-shadow: 1in;
+  border-radius: 50px;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 10px;
+  height: 300px;
+  font-family: serif;
+  font-style: italic;
 }
