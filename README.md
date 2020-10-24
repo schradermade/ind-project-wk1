@@ -9,11 +9,15 @@
 _This website was built for Blue Dolphin Car Wash to advertise their business on the internet, and as a first-step to future social media advertising. Site shows name, different wash levels complete with price and wash-description._
 
 ## Setup/Installation Requirements
+##### View Online
+View at https://schradermade.github.io/ind-project-wk1/
 
-* _Clone this repository_
-* _Open a simple HTTP server in the top level of the cloned directory. For a mac, run the following commanad in your terminal:_
-**python -m SimpleHTTPServer**
-* _Then open your web browser of choice to localhost:8800_
+##### Open Locally
+1.   Navigate to https://github.com/schradermade/ind-project-wk1
+2.   Click on the green "Code" button, and copy the repository HTTPS URL.
+3a. Open your machine terminal and use the command 'git clone https://github.com/schradermade/ind-project-wk1' in the directory you would like to                clone the repository.
+3b. Alternatively, click "Download Zip" and open the file on your machine.
+4.   Open the index.html file to view website, or alternatively use an IDE to view the code language.
 
 ## Known Bugs
 
@@ -27,4 +31,7 @@ _If you run into any issues or have concerns, please reach out at nathanschrader
 
 _HTML, CSS, Visual Studio Code, Github_
 
+## Legal
 Copyright (c) 2020 **_Nathan Schrader_**
+
+This software is licensed under the MIT license.
