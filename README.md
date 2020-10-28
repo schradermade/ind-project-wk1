@@ -15,9 +15,10 @@ View at https://schradermade.github.io/ind-project-wk1/
 ##### Open Locally
 1.   Navigate to https://github.com/schradermade/ind-project-wk1
 2.   Click on the green "Code" button, and copy the repository HTTPS URL.
-3a. Open your machine terminal and use the command 'git clone https://github.com/schradermade/ind-project-wk1' in the directory you would like to                clone the repository.
-3b. Alternatively, click "Download Zip" and open the file on your machine.
-4.   Open the index.html file to view website, or alternatively use an IDE to view the code language.
+3. Open your machine terminal and use the command 'git clone https://github.com/schradermade/ind-project-wk1' in the directory you would like to clone the repository.
+_OR, if not 3. then move to 4._
+4. Alternatively, click "Download Zip" and open the file on your machine.
+5.   Open the index.html file to view website, or alternatively use an IDE to view the code language.
 
 ## Known Bugs
 
